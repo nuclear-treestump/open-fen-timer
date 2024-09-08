@@ -32,4 +32,4 @@ events as you focus on delivering great content for your viewers.
 
 Happy streaming!
 
-© 2023 Ikari
+© 2024 Ikari
