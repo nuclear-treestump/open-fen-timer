@@ -14,19 +14,19 @@ def receive_donation():
     SUB_TIER = {
     "prime": {
         "name": "prime",
-        "cost": 5
+        "cost": float(constants.PRIME_COST)
     },
     "tier1": {
         "name": "tier1",
-        "cost": 5
+        "cost": float(constants.TIER1_COST)
     },
     "tier2": {
         "name": "tier2",
-        "cost": 10
+        "cost": float(constants.TIER2_COST)
     },
     "tier3": {
         "name": "tier3",
-        "cost": 25
+        "cost": float(constants.TIER3_COST)
     }
     }
     BIT_RATIO = float((constants.minute_multiplier * 60) / 100)

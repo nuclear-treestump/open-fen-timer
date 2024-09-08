@@ -18,6 +18,12 @@ FONT_SIZE = 100
 max_visible_donations = 10
 donations_display_time = 30
 
+#Twitch Sub Cost (supports int and float)
+PRIME_COST = 6
+TIER1_COST = 6
+TIER2_COST = 10
+TIER3_COST = 25
+
 # How many minutes per dollar
 minute_multiplier = 2
 
