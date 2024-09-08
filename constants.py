@@ -1,7 +1,7 @@
 # constants.py
 
 SRC_SELECTION = ["Twitch"]
-APP_VERSION = "1.0.0"
+APP_VERSION = "1.1.0"
 ASCII_DATA = """  ____                   ______      _______ _                     
  / __ \                 |  ____|    |__   __(_)                    
 | |  | |_ __   ___ _ __ | |__ ___ _ __ | |   _ _ __ ___   ___ _ __ 
